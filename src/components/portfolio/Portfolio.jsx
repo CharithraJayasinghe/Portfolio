@@ -1,6 +1,6 @@
 import React from 'react'
 import "./portfolio.css"
-import IMG1 from '../../assets/portfolio1.jpg'
+import IMG1 from '../../assets/project.png'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
@@ -13,9 +13,9 @@ const data = [
   {
     id: 1,
     Image: IMG1,
-    title: 'Figma dashboard UI kit for data design web apps',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/17845658-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
+    title: 'Automated Recruitment System',
+    github: 'https://github.com/schinthakaSE24/group6.git',
+    //demo: 'https://dribbble.com/shots/17845658-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
   },
 
   {

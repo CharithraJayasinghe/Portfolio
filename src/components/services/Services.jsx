@@ -4,7 +4,7 @@ import {BsCheck2} from 'react-icons/bs'
 
 const Services = () => {
   return (
-    <section id='services'>
+    <section id=''>
       <h5>What I Offer</h5>
       <h2>Services</h2>
 
@@ -23,12 +23,12 @@ const Services = () => {
 
             <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Designing eligent user interfaces</p>
+              <p>More responsive web pages</p>
             </li>
 
             <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Designing eligent user interfaces</p>
+              <p>Interractive Designs</p>
             </li>
         </ul> 
         </article>
@@ -44,17 +44,17 @@ const Services = () => {
 
             <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Designing eligent user interfaces</p>
+              <p>Design more attractive web pages</p>
             </li>
 
             <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Designing eligent user interfaces</p>
+              <p>Understand the requirement of client</p>
             </li>
 
             <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Designing eligent user interfaces</p>
+              <p>Atractive appearance</p>
             </li>
         </ul> 
         </article>
@@ -70,12 +70,12 @@ const Services = () => {
 
             <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Designing eligent user interfaces</p>
+              <p>Making vedios about content</p>
             </li>
 
             <li>
               <BsCheck2 className='service__list-icon' />
-              <p>Designing eligent user interfaces</p>
+              <p>publish creative post</p>
             </li>
 
             <li>
